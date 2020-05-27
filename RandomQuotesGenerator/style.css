@@ -1,0 +1,15 @@
+div {
+    margin: 15%;
+    margin-right: 35%;
+    margin-left: 35%;
+    border : 30px blue solid ;
+    background-color: red;
+}
+button {
+    margin-left: 8rem;
+    margin-top: 2%;
+}
+p{
+    margin-left: 2%;
+    font-size: large;
+}
